@@ -9,4 +9,5 @@
     <string name="student_name">Student Name</string>
     <string name="student_phone_number">Student Phone Number</string>
     <string name="save">Save</string>
+    <string name="dial">Dial</string>
 </resources>
