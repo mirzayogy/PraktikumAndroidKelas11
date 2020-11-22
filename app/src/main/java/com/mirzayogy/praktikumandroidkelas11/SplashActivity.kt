@@ -15,5 +15,7 @@ class SplashActivity : AppCompatActivity() {
             val i = Intent(this,StudentActivity::class.java)
             startActivity(i)
         },2000)
+
+        supportActionBar?.hide()
     }
 }
